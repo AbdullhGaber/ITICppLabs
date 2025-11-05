@@ -1,0 +1,3 @@
+Write a function that simulate the input statement (input a string) 
+(Line editor with dynamic allocation size, either return pointer to
+ char OR receive a pointer to character as parameter)

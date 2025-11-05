@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1762085538 source:c:\users\hp\documents\codeblocksprojects\iti\lineeditor\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstring>
+
+1762087045 source:c:\users\hp\documents\codeblocksprojects\iti\lab5mobileiti\lineeditor\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstring>
+
